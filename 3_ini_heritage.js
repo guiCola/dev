@@ -1,3 +1,4 @@
+/*test4*/
 /*Source: https://www.youtube.com/watch?v=kOBet0BPKzg*/
 /*IDE: https://ethereum.github.io/browser-solidity/#version=soljson-v0.4.19+commit.c4cbbb05.js&optimize=true*/
 pragma solidity ^0.4.0;
