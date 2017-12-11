@@ -1,6 +1,6 @@
 /*Source: https://www.youtube.com/watch?v=js319cgJvrQ*/
 /*IDE: https://ethereum.github.io/browser-solidity/#version=soljson-v0.4.19+commit.c4cbbb05.js&optimize=true*/
-pragma solidity ^0.4.0;
+pragma solidity ^0.4.0; 
 
 /*Contrat qui permet à des user d'acheter des tickets de concert
     Un user envoi des fonds et son adresse est enregistrée comme adresse qui possède un ticket
