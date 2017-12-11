@@ -21,7 +21,7 @@ contract Concert {
    
    function contractBalance() public constant returns(uint256 bal){
        bal = this.balance;
-       return bal;
+       return bal; 
    }
    
    function buyTickets(uint amount) public payable{
